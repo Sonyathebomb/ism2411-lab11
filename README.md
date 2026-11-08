@@ -9,3 +9,4 @@ From this folder:
 ```
 python3 customers.py
 ```
+## Reflection
